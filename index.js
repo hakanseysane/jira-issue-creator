@@ -24,6 +24,9 @@ const processIssues = async (issues) => {
     const description = row['Description'];
     const projectKey = row['Project Key'];
     const parentKey = row['Parent Key'];
+    
+    // Sleep
+    await sleep(300);
 
     const issueList = await searchIssues(projectKey, summary, username, apiToken);
     if (issueList.length > 1) {
