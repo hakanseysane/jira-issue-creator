@@ -1,0 +1,11 @@
+Summary,Project Key,Parent Key,Description
+Database performance optimization,PROJ1,PROJ3-1,Optimize database queries to improve performance and reduce load times.
+Update API documentation,PROJ1,PROJ1-1,Update the API documentation to reflect recent changes and additions.
+Fix critical security vulnerabilities,PROJ3,PROJ2-1,Fix critical security vulnerabilities identified in the recent audit.
+Enhance user authentication module,PROJ3,PROJ3-1,Enhance the user authentication module to support multi-factor authentication.
+Implement automated testing,PROJ2,PROJ2-1,Implement automated testing to ensure code quality and reduce manual testing efforts.
+Migrate to new server infrastructure,PROJ2,PROJ3-1,Migrate the application to the new server infrastructure for better performance and scalability.
+Improve logging and monitoring,PROJ1,PROJ1-1,Improve logging and monitoring to better track application performance and issues.
+Refactor legacy codebase,PROJ1,PROJ2-1,Refactor the legacy codebase to improve maintainability and performance.
+Update third-party libraries,PROJ1,PROJ1-1,Update third-party libraries to their latest versions to ensure compatibility and security.
+Optimize frontend performance,PROJ1,PROJ2-1,Optimize frontend performance to improve user experience and reduce load times.
