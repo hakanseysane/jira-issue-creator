@@ -1,12 +1,11 @@
 {
-  "name": "jira-client",
+  "name": "jira-issue-creator",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Node.js project that allows you to create Jira issues from a CSV file.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
